@@ -10,5 +10,7 @@ Sou Formado em Engenharia de Alimentos pela UFPB e atualmente estou cursando Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+          
 
 ![Snake animation](https://github.com/Gabriel-am1/Gabriel-am1/blob/output/github-contribution-grid-snake.svg)
