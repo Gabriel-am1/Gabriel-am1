@@ -1,5 +1,5 @@
  Olá, me chamo Gabriel Amaral! 👋
-Sou Formado em Engenharia de Alimentos pela UFPB e atualmente estou cursando Desenvolvimento web Full Stack na Trybe.
+Sou Estudante de análise e desenvolvimento de sistemas pela uninter e atualmente estou cursando Desenvolvimento web Full Stack na Trybe.
 
 <div>
 <a href="https://github.com/Gabriel-am1">
@@ -12,6 +12,10 @@ Sou Formado em Engenharia de Alimentos pela UFPB e atualmente estou cursando Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+          
+          
 </div>         
 
 ![Snake animation](https://github.com/Gabriel-am1/Gabriel-am1/blob/output/github-contribution-grid-snake.svg)
