@@ -8,7 +8,7 @@ Sou Estudante de análise e desenvolvimento de sistemas pela uninter e atualment
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/gabriel-amaral-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-amaral-dev/ target="_blank"" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="mailto:gabriel.amaralll1995@gmail.com?subject=Hello%20Gabriel%Amaral">
